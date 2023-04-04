@@ -1,4 +1,4 @@
-# CTF-Linux-Kernel-Exploitation
+# kpwn
 
 This repository contains my exploit scripts for kernel CTF challenges
 
