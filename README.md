@@ -2,9 +2,15 @@
 
 This repository contains my exploit scripts for kernel CTF challenges
 
+---
+
 ## Challenges
+|Challenge|CTF|Link|Tags|
+|-|-|-|-|
+|window-of-opportunity|ImaginaryCTF 2023|[README](./challenges/window-of-opportunity/README.md)|`Stack BOF \| AAR \| kROP`|
+|Sofirium|idekctf 2022*|[README](./challenges/sofirium/README.md)|`UAF \| MSG_MSG \| modprobe `|
 
-* [Sofirium - idekctf 2022*](./challenges/sofirium/README.md)
+---
 
-\
-Contact: [Discord](https://discordapp.com/users/Shunt#4275)
+Twitter: [ShuntIsReal](https://twitter.com/ShuntIsReal)\
+Contact: [Discord](https://discordapp.com/users/realshunt)
