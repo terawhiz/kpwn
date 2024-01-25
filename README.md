@@ -14,4 +14,6 @@ This repository contains my exploit scripts for kernel CTF challenges.
 
 ---
 
-Feel free to contact me on [Twitter (ShuntIsReal)](https://twitter.com/ShuntIsReal) or [Discord (realshunt)](https://discordapp.com/users/realshunt).
+And I'm documenting my cve exploits in [terawhiz/exploits](https://github.com/terawhiz/exploits)
+
+Feel free to contact me via [Twitter (ShuntIsReal)](https://twitter.com/ShuntIsReal) or [Discord (realshunt)](https://discordapp.com/users/realshunt).
