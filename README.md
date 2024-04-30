@@ -1,16 +1,24 @@
 # kpwn
 
-This repository contains my exploit scripts for kernel CTF challenges.
+This repository contains my exploit scripts for kernel and Browser CTF challenges. I'll try to add writeups for them in future.
 
 ---
 
-## Challenges
+## Kernel challenges
+
 |Challenge|CTF|Writeup|Tags|
 |-|-|-|-|
 |Keasy|m0leCon finals 2023|[README](./challenges/keasy/)|`Cross Cache \| Dirty Pagetable`|
 |Wall Rose|HITCON Quals 2023|[README](./challenges/wall-rose/)|`Arb Free \| Dirtypipe`|
 |window-of-opportunity|ImaginaryCTF 2023|[README](./challenges/window-of-opportunity/)|`Stack BOF \| AAR \| kROP`|
 |Sofirium|idekctf 2022*|[README](./challenges/sofirium/)|`UAF \| MSG_MSG \| modprobe `|
+
+## Browser challenges
+
+|Challenge|CTF|Writeup|Tags|
+|-|-|-|-|
+|Outfoxed|corCTF 2021|[README](./browser-challenges/outfoxed/)|`firefox \| Array OOB`|
+
 
 ---
 
