@@ -8,6 +8,7 @@ This repository contains my exploit scripts for kernel and Browser CTF challenge
 
 |Challenge|CTF|Writeup|Tags|
 |-|-|-|-|
+|kRCU|WannaGame Championship 2024|[README](./challenges/krcu/)|`RACE \| UAF \| FUSE`|
 |Keasy|m0leCon finals 2023|[README](./challenges/keasy/)|`Cross Cache \| Dirty Pagetable`|
 |Wall Rose|HITCON Quals 2023|[README](./challenges/wall-rose/)|`Arb Free \| Dirtypipe`|
 |window-of-opportunity|ImaginaryCTF 2023|[README](./challenges/window-of-opportunity/)|`Stack BOF \| AAR \| kROP`|
