@@ -1,6 +1,6 @@
 # messenger - LACTF 2024
 
-Writeup TBD
+Writeup for the challenge, [link](https://terawhiz.github.io/2025/2/oob-write-to-page-uaf-lactf-2025/)
 
 tl;dr
 
