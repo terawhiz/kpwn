@@ -1,4 +1,4 @@
-# messenger - LACTF 2024
+# messenger - LACTF 2025
 
 Writeup for the challenge, [link](https://terawhiz.github.io/2025/2/oob-write-to-page-uaf-lactf-2025/)
 
